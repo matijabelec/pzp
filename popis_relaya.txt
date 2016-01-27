@@ -1,0 +1,7 @@
+h asgfseg 23
+h wwwwwwwww 35
+h sgeiog 32
+ip4 124.232.52.1 12
+h afio 32
+ip4 35.32.1.53 53
+
